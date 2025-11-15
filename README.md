@@ -1,6 +1,8 @@
-# 📊 Netflix Content Analysis Dashboard – Power BI
+# 📊 Netflix Analysis Dashboard – Power BI
 <img width="1758" height="983" alt="Screenshot 2025-11-15 125744" src="https://github.com/user-attachments/assets/adf5e72b-2142-48f1-bddc-0e4b0acb88e3" />
 <img width="1752" height="978" alt="Screenshot 2025-11-15 130227" src="https://github.com/user-attachments/assets/eb14fc03-b3cb-419f-a99f-db980a5c5d8a" />
+<img width="1806" height="863" alt="Screenshot 2025-11-15 131049" src="https://github.com/user-attachments/assets/70b5365f-dc77-4267-ae49-2a3b80decc90" />
+
 📘 Project Overview
 
 This Power BI dashboard analyzes Netflix’s complete movie and TV show catalog using structured, cleaned, and transformed data.
